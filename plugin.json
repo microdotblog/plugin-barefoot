@@ -1,6 +1,6 @@
 {
-	"version": "1.0",
+	"version": "1.0.1",
 	"title": "Barefoot",
 	"description": "Lightweight footnotes for your blog.",
-  "includes": [ "barefoot.html" ]
+	"includes": [ "barefoot.html" ]
 }
