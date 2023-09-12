@@ -3,5 +3,6 @@
 @media (prefers-color-scheme: dark) {
 	.footnote-wrapper {
 		background-color: #000 !important;
+		color: #FFF !important;
 	}
 }
